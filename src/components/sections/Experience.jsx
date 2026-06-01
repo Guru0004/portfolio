@@ -18,6 +18,17 @@ const Experience = () => {
     },
     {
       type: "Project",
+      title: "Namma pincode - Pincode Search Application",
+      organization: "Personal Project",
+      period: "2026",
+      description: [
+        "Developed a responsive and user-friendly pincode search application to help users find postal codes quickly and efficiently.",
+        "Implemented using React.js, Tailwind CSS for styling, and integrated with a RESTful API for real-time data retrieval."
+      ],
+      link: "https://namma-pincode-snvf.vercel.app/"
+    },
+    {
+      type: "Project",
       title: "Personal Finance Dashboard",
       organization: "Personal Project",
       period: "2026",
